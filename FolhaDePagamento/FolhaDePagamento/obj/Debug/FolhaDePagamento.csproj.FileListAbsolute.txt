@@ -1,0 +1,6 @@
+c:\users\didec\documents\visual studio 2015\Projects\FolhaDePagamento\FolhaDePagamento\bin\Debug\FolhaDePagamento.exe.config
+c:\users\didec\documents\visual studio 2015\Projects\FolhaDePagamento\FolhaDePagamento\bin\Debug\FolhaDePagamento.exe
+c:\users\didec\documents\visual studio 2015\Projects\FolhaDePagamento\FolhaDePagamento\bin\Debug\FolhaDePagamento.pdb
+c:\users\didec\documents\visual studio 2015\Projects\FolhaDePagamento\FolhaDePagamento\obj\Debug\FolhaDePagamento.csprojResolveAssemblyReference.cache
+c:\users\didec\documents\visual studio 2015\Projects\FolhaDePagamento\FolhaDePagamento\obj\Debug\FolhaDePagamento.exe
+c:\users\didec\documents\visual studio 2015\Projects\FolhaDePagamento\FolhaDePagamento\obj\Debug\FolhaDePagamento.pdb
